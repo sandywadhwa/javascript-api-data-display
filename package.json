@@ -1,0 +1,23 @@
+{
+  "name": "javascript-api-data-display",
+  "version": "1.0.0",
+  "description": "Display data in Web Page using API call and Pure JAVASCRIPT code.",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandywadhwa/javascript-api-data-display.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandywadhwa/javascript-api-data-display/issues"
+  },
+  "homepage": "https://github.com/sandywadhwa/javascript-api-data-display#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
